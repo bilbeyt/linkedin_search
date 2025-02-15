@@ -1,0 +1,2 @@
+selenium==4.26.1
+structlog==24.4.0
